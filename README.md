@@ -160,15 +160,7 @@ screenshots/
 
 ---
 
-👥 Team
 
-Team Leader: Dinesh M
-
-Team Members:
-
-- Shyam N
-- Priyan M
-- B Raj Kumar
 
 ---
 
